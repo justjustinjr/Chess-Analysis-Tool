@@ -1,1 +1,5 @@
+chess
+simpleaudio
+numpy
+scipy
 
