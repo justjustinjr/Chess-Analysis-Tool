@@ -14,7 +14,7 @@ The Chess Variations Analyzer is a tool that explores and generates chess game v
 
 ## Configuration
 
-Make sure you have downloaded (this)[https://drive.google.com/file/d/1O27-UqW9zm2HAs3X3bpBrGtBVYVhD_9_/view?usp=drive_link] specific version of stockfish.
+Make sure you have downloaded [this](https://drive.google.com/file/d/1O27-UqW9zm2HAs3X3bpBrGtBVYVhD_9_/view?usp=drive_link)specific version of stockfish.
 
 Set the parameters in `main.py`:
 
@@ -33,4 +33,4 @@ These parameters initialize the board and control the analysis's depth and bread
 
 ## Conclusion
 
-Chess Analysis Tool (for any name suggestions or questions, hmu on discord @justjustinjr) is very useful at creating opening repertoires. I personally use this along with the chesstempo Opening Trainer to traing my openings, I will improve this program over time. Lastly, thank you to (permutationlock)[https://github.com/permutationlock] for his program that merges pgns together, I use an adapted version of it for this project. As I've stated, message me on discord @justjustinjr, I'm also in .gg/chess
+Chess Analysis Tool (for any name suggestions or questions, hmu on discord @justjustinjr) is very useful at creating opening repertoires. I personally use this along with the chesstempo Opening Trainer to traing my openings, I will improve this program over time. Lastly, thank you to [ermutationlock](https://github.com/permutationlock) for his program that merges pgns together, I use an adapted version of it for this project. As I've stated, message me on discord @justjustinjr, I'm also in .gg/chess
